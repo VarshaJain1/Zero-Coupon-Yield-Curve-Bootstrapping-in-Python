@@ -12,26 +12,7 @@
  method to sequentially solve for spot rates starting from the shortest maturity. 3. Calculate forward
  rates from the spot rates to understand future interest rate expectations. 4. Plot the zero-coupon
  yield curve for visual analysis. 5. Discuss extension to swap curve estimation.
- Sample Output
- Maturity (Years) Coupon (%) Price
- Spot Rate (%)
- 0.5
- 0.00
- 98.00
- 4.08
- 1.0
- 1.5
- 2.0
- 2.5
  Conclusion
- 5.00
- 6.00
- 6.00
- 6.50
- 101.50 4.95
- 103.00 5.12
- 104.50 5.25
- 106.00 5.38
  This Python-based bootstrapping project provides a practical approach to deriving zero-coupon
  yield curves from bond prices. It is valuable for FRM candidates, risk managers, and fixed-income
  analysts to understand term structure modeling, forward rate derivation, and the fundamentals of
